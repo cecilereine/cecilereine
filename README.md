@@ -4,8 +4,8 @@ Senior Game Developer | 9+ Years Experience
 I'm a freelance game developer based in Manila, Philippines, 
 
 ### 🛠️ Core Tech: 
-- Unity3D, C#
-- Photon Quantum (Deterministic Multiplayer Game Engine
+- Unity3D, C# (Android, iOS, PC/MAC, WebGL)
+- Photon Quantum (Deterministic Multiplayer Game Engine)
 - TypeScript/JavaScript
 - Pixi.js
   
